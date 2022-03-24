@@ -97,10 +97,12 @@ img:hover{
     cursor: pointer;
 }
 
+
 #toc_container {
-    background: #f9f9f9 none repeat scroll 0 0;
+    background: #0000;
     border: 1px solid #aaa;
     display: table;
+    font-family: 'Karla';
     font-size: 95%;
     margin-bottom: 1em;
     padding: 20px;
