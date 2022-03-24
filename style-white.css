@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .navbar{
-    background-color: #d8d8d8;
+    background-color: white;
     color: #0000;
     border-bottom: 0.5px solid gray;
     width: 100%;
@@ -50,10 +50,10 @@
     padding: 0 30px;
 }
 .navbar ul li a:hover{
-    background-color: black;
+    background-color: black#d8d8d8;
 }
 body{
-    background-color: #d8d8d8;
+    background-color: white;
 }
 .content{
     font-family: 'Karla';
@@ -73,9 +73,9 @@ main{
 }
 .btns{
     margin-top: 20px;
-    background: #0000;
+    background: white;
     cursor: pointer;
-    color: #d8d8d8;
+    color: #0000;
     padding: 12px 20px;
     float: left;
     border: 0;
